@@ -1,3 +1,5 @@
+#Problem description: https://www.kaggle.com/c/pubg-finish-placement-prediction
+
 import numpy as np
 import pandas as pd
 from sklearn import preprocessing
