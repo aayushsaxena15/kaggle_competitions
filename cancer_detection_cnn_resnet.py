@@ -1,3 +1,5 @@
+# Problem description: https://www.kaggle.com/c/histopathologic-cancer-detection
+
 from fastai.vision import *
 
 tfms = get_transforms(flip_vert=True, max_warp=0, max_zoom=0, p_affine=0, max_rotate=0)
