@@ -1,3 +1,5 @@
+# Problem Description: https://www.kaggle.com/c/humpback-whale-identification
+
 from fastai.conv_learner import *
 from fastai.dataset import *
 from tqdm import tqdm
