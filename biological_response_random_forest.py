@@ -1,3 +1,5 @@
+# Problem description: https://www.kaggle.com/c/bioresponse
+
 from __future__ import division
 import numpy as np
 from sklearn.cross_validation import StratifiedKFold
